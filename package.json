@@ -1,0 +1,32 @@
+{
+  "name": "maau-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugnuagrawal/maau-lite.git"
+  },
+  "keywords": [
+    "SQLite",
+    "User Management",
+    "Local Users"
+  ],
+  "author": "Jugnu Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jugnuagrawal/maau-lite/issues"
+  },
+  "homepage": "https://github.com/jugnuagrawal/maau-lite#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "jsonwebtoken": "^8.5.1",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2",
+    "validator": "^10.11.0"
+  }
+}
